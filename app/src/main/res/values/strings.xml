@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieListTestApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_list_title">Фильмы</string>
+    <string name="grade_caption">КиноПоиск</string>
+    <string name="description">Бен и Алекс, уцелевшие после авиакатастрофы, должны найти общий язык, чтобы выжить в экстремальных условиях далеких заснеженных гор. Когда они понимают, что на помощь к ним никто не придет, они вынуждены отправиться в опасный путь длиной в сотни километров. В борьбе за жизнь между двумя еще вчера незнакомыми людьми неожиданно возникает притяжение.</string>
+    <string name="error_btn">Повторить</string>
+</resources>
